@@ -1,0 +1,62 @@
+h1{
+  text-align: center;
+  font-variant:small-caps;
+  font-size: 90%;
+}
+img{
+  width:250px;
+  height:250px;
+  display: block;
+  margin:3% auto;
+  border-radius:6px;
+}
+ul{
+  list-style-type: none;
+  
+}
+li{
+  padding:15px;
+  border:1px solid white;
+  width:40%;
+  margin:0 auto;
+  border-radius: 5px;
+}
+li{
+  border-bottom: none;
+}
+.last{
+  border-bottom: 1px solid white;
+}
+#red{
+  background:red;
+}
+#blue{
+  background: blue;
+}
+#lemon{
+  background: lime;
+}
+#green{
+  background: green;
+}
+#orange{
+  background: orange;
+}
+#yellow{
+  background:yellow;
+}
+#pink{
+  background: lightpink;
+}
+button{
+  display:block;
+  margin: 3% 0 0 30%;
+  padding:15px;
+  font-size: 120%;
+  font-variant: small-caps;
+  background: black;
+  color:white;
+  border:none;
+  border-radius: 5px;
+  
+}
